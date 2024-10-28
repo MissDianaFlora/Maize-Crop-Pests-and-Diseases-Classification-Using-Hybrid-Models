@@ -1,0 +1,2 @@
+# Maize-Crop-Pests-and-Diseases-Classification-Using-Hybrid-Models
+This project combines Inception V3 and EfficientNetB0 CNN architectures for advanced feature extraction, alongside a Support Vector Machine (SVM) multiclassifier for enhanced accuracy. The hybrid approach aims to provide timely insights to farmers for effective pest and disease management, ultimately improving maize crop health and yield.
