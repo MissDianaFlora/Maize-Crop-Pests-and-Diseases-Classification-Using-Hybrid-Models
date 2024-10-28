@@ -26,8 +26,9 @@ The models will be compared based on accuracy, precision, recall, and F1-score t
 4. Evaluation Metrics
 The model's performance will be evaluated using metrics such as accuracy, precision, recall, and F1-score. A confusion matrix will also be utilized to visualize classification results across different pest and disease classes.
 
-5. Expected Outcomes
+## Expected Outcomes
 - Model Performance Comparison: A thorough evaluation of the four models (EfficientNetB0-SVM with image sizes 224 and 299, Inception V3-SVM with image size 299, and Standalone 2D CNN) in terms of accuracy and efficiency.
 - Best Model Recommendation: The project aims to recommend the best-performing model based on empirical results, enabling farmers to utilize the most effective tool for pest and disease identification.
-- Improved Decision-Making: By providing timely information, the project aims to support farmers in taking proactive measures to protect their crops, ultimately leading to improved agricultural productivity.4. Conclusion
+- Improved Decision-Making: By providing timely information, the project aims to support farmers in taking proactive measures to protect their crops, ultimately leading to improved agricultural productivity.4.
+- ## Conclusion
 This project aims to bridge the gap between traditional agricultural practices and modern technology by providing an intelligent system for pest and disease identification in maize crops. By integrating state-of-the-art CNN architectures with SVM classifiers and evaluating their performance, the project strives to enhance the efficiency and accuracy of agricultural diagnostics while recommending the best model for practical use in the field.This project combines Inception V3 and EfficientNetB0 CNN architectures for advanced feature extraction, alongside a Support Vector Machine (SVM) multiclassifier for enhanced accuracy. The hybrid approach aims to provide timely insights to farmers for effective pest and disease management, ultimately improving maize crop health and yield.
